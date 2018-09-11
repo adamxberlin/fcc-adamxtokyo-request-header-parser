@@ -1,0 +1,24 @@
+{
+	"name": "fcc-adamxtokyo-request-header-parser",
+	"version": "1.0.0",
+	"description": "freeCodeCamp API Project: Request Header Parser Microservice",
+	"homepage": "https://fcc-adamxtokyo-request-header.herokuapp.com/",
+	"author": "Adam Grawender",
+	"license": "MIT",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"cors": "^2.8.4",
+		"express": "^4.16.3"
+	},
+	"engines": {
+		"node": "10.2.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adamxtokyo/fcc-adamxtokyo-request-header-parser"
+	},
+	"private": true
+}
